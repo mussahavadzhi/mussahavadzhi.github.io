@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | </title>
+    <link>https://mussahavadzhi.github.io/ru/tags/student-life/</link>
+      <atom:link href="https://mussahavadzhi.github.io/ru/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mussahavadzhi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Student Life</title>
+      <link>https://mussahavadzhi.github.io/ru/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://mussahavadzhi.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://mussahavadzhi.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя была довольно продуктивной. За это время я получил новые знания, выполнил несколько практических заданий и продолжил развивать навыки программирования.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;прикладной информатике&lt;/strong&gt; мы разбирали, как создаются и используются современные информационные системы. Это помогло лучше понять, как IT применяется в разных сферах.&lt;/li&gt;
+&lt;li&gt;💻 Практиковался в &lt;strong&gt;программировании&lt;/strong&gt;, решал задачи и старался лучше понять логику алгоритмов и структуру программ.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях обсуждали &lt;strong&gt;алгоритмы и структуры данных&lt;/strong&gt;, что помогает развивать алгоритмическое мышление.&lt;/li&gt;
+&lt;li&gt;🗄 Работал с основами &lt;strong&gt;баз данных&lt;/strong&gt;, изучал принципы хранения и обработки информации.&lt;/li&gt;
+&lt;li&gt;📚 Выполнял учебные задания и готовился к следующим занятиям, закрепляя пройденный материал.&lt;/li&gt;
+&lt;li&gt;⚽ Нашёл время для отдыха и спорта, чтобы немного переключиться после учебы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя в университете приносит новые знания и опыт. Постепенно становится понятнее, в каком направлении IT хочется развиваться дальше и какие навыки нужно развивать.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
