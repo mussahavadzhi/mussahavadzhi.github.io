@@ -54,11 +54,13 @@
       href="https://mussahavadzhi.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/git/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/documentation/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/programming/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://mussahavadzhi.github.io/ru/publications/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mussahavadzhi.github.io/ru/tags/programming/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/publications/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://mussahavadzhi.github.io/publications/"
@@ -68,9 +70,7 @@
       href="https://mussahavadzhi.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/software-development/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mussahavadzhi.github.io/ru/tags/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://mussahavadzhi.github.io/tags/"
@@ -79,6 +79,12 @@
       hreflang="ru"
       href="https://mussahavadzhi.github.io/ru/tags/"
     /></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/publications/02/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/git/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/software-development/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mussahavadzhi.github.io/ru/tags/version-control/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

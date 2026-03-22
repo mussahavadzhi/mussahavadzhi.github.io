@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation | </title>
+    <link>https://mussahavadzhi.github.io/ru/tags/documentation/</link>
+      <atom:link href="https://mussahavadzhi.github.io/ru/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Documentation</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mussahavadzhi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Documentation</title>
+      <link>https://mussahavadzhi.github.io/ru/tags/documentation/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://mussahavadzhi.github.io/ru/publications/02/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://mussahavadzhi.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это удобные инструменты для форматирования текста с минимальным использованием сложного синтаксиса. Они широко применяются в разработке, документации и повседневной работе с текстом.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💡 В отличие от сложных систем вроде HTML, такие языки используют &lt;strong&gt;простой и понятный синтаксис&lt;/strong&gt;, который легко освоить даже новичку.&lt;/li&gt;
+&lt;li&gt;🧾 Один из самых популярных примеров — &lt;strong&gt;Markdown&lt;/strong&gt;, который применяется для написания README-файлов, документации и постов.&lt;/li&gt;
+&lt;li&gt;⚙️ Также существуют другие языки, такие как &lt;strong&gt;reStructuredText&lt;/strong&gt;, &lt;strong&gt;Asciidoc&lt;/strong&gt;, которые используются в технической документации.&lt;/li&gt;
+&lt;li&gt;📊 Легковесные языки позволяют быстро создавать структурированный текст: заголовки, списки, ссылки, изображения и таблицы.&lt;/li&gt;
+&lt;li&gt;🔄 Они легко конвертируются в другие форматы — HTML, PDF и другие, что делает их универсальным инструментом.&lt;/li&gt;
+&lt;li&gt;🚀 Благодаря своей простоте, такие языки активно используются разработчиками, студентами и авторами контента.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Использование легковесных языков разметки упрощает работу с текстом и делает её более эффективной. Они позволяют сосредоточиться на содержании, а не на сложном форматировании.&lt;/p&gt;
+&lt;p&gt;А вы используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
