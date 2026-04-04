@@ -54,6 +54,42 @@
       href="https://mussahavadzhi.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/academic/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mussahavadzhi.github.io/tags/academic/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mussahavadzhi.github.io/ru/tags/academic/"
+    /></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/applied-informatics/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/blog/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mussahavadzhi.github.io/blog/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mussahavadzhi.github.io/ru/blog/"
+    /></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/student-life/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/tags/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mussahavadzhi.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mussahavadzhi.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc>https://mussahavadzhi.github.io/ru/blog/02/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://mussahavadzhi.github.io/ru/tags/documentation/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mussahavadzhi.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -70,16 +106,6 @@
       href="https://mussahavadzhi.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mussahavadzhi.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mussahavadzhi.github.io/ru/tags/"
-    /></url>
-  <url>
     <loc>https://mussahavadzhi.github.io/ru/publications/02/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mussahavadzhi.github.io/ru/tags/git/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -89,30 +115,6 @@
     <loc>https://mussahavadzhi.github.io/ru/tags/version-control/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mussahavadzhi.github.io/ru/publications/01/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/academic/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mussahavadzhi.github.io/tags/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mussahavadzhi.github.io/ru/tags/academic/"
-    /></url>
-  <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/applied-informatics/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mussahavadzhi.github.io/ru/blog/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mussahavadzhi.github.io/blog/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mussahavadzhi.github.io/ru/blog/"
-    /></url>
-  <url>
-    <loc>https://mussahavadzhi.github.io/ru/tags/student-life/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mussahavadzhi.github.io/ru/blog/01/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
