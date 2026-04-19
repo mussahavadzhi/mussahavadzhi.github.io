@@ -13,27 +13,51 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://mussahavadzhi.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mussahavadzhi.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://mussahavadzhi.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mussahavadzhi.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://mussahavadzhi.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mussahavadzhi.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://mussahavadzhi.github.io/ru/projects/hugo/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://mussahavadzhi.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт — важный инструмент для современного исследователя. Он помогает представить научные достижения, поделиться публикациями и наладить профессиональные связи. Один из удобных способов создать такой сайт — использовать &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;-что-такое-hugo-academic&#34;&gt;⚙️ Что такое Hugo Academic&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — это быстрый генератор статических сайтов, который широко применяется для создания блогов и персональных страниц.
+Тема &lt;strong&gt;Hugo Academic&lt;/strong&gt; (сейчас известна как Wowchemy) предоставляет готовое решение для академических сайтов.&lt;/p&gt;
+&lt;h3 id=&#34;-преимущества&#34;&gt;🚀 Преимущества&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Высокая скорость загрузки и генерации сайта&lt;/li&gt;
+&lt;li&gt;🎨 Готовые шаблоны для резюме, публикаций и проектов&lt;/li&gt;
+&lt;li&gt;📱 Адаптивный дизайн для любых устройств&lt;/li&gt;
+&lt;li&gt;🔍 SEO-оптимизация и удобная структура&lt;/li&gt;
+&lt;li&gt;🧩 Возможность расширения и кастомизации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-основные-разделы-сайта&#34;&gt;🧱 Основные разделы сайта&lt;/h3&gt;
+&lt;p&gt;Сайт научного работника обычно включает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👤 &lt;strong&gt;О себе&lt;/strong&gt; — краткая биография, научные интересы&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;Публикации&lt;/strong&gt; — статьи, конференции, препринты&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;Проекты&lt;/strong&gt; — текущие и завершённые исследования&lt;/li&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Образование и опыт&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;📬 &lt;strong&gt;Контакты&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-как-начать&#34;&gt;💻 Как начать&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить &lt;strong&gt;Hugo&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Скачать тему Academic (Wowchemy)&lt;/li&gt;
+&lt;li&gt;Настроить конфигурацию сайта&lt;/li&gt;
+&lt;li&gt;Добавить контент (Markdown-файлы)&lt;/li&gt;
+&lt;li&gt;Развернуть сайт (например, через GitHub Pages)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;-почему-это-удобно&#34;&gt;📚 Почему это удобно&lt;/h3&gt;
+&lt;p&gt;Использование Hugo Academic позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;быстро создать профессиональный сайт без глубоких знаний веб-разработки&lt;/li&gt;
+&lt;li&gt;структурировать научную деятельность&lt;/li&gt;
+&lt;li&gt;повысить видимость своих исследований&lt;/li&gt;
+&lt;li&gt;делиться результатами с научным сообществом&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Персональный сайт становится цифровым портфолио исследователя и важной частью академической карьеры.&lt;/p&gt;
+&lt;p&gt;А у вас уже есть собственный научный сайт? 😊&lt;/p&gt;
+</description>
     </item>
     
   </channel>

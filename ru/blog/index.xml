@@ -5,12 +5,32 @@
     <link>https://mussahavadzhi.github.io/ru/blog/</link>
       <atom:link href="https://mussahavadzhi.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mussahavadzhi.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://mussahavadzhi.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://mussahavadzhi.github.io/ru/blog/03/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://mussahavadzhi.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя прошла продуктивно и насыщенно: удалось продвинуться в учёбе и закрепить ключевые навыки. Постепенно становится легче ориентироваться в сложных темах и видеть их практическое применение.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;прикладной информатике&lt;/strong&gt; разбирали реальные кейсы использования информационных систем, уделяя внимание их эффективности и внедрению.&lt;/li&gt;
+&lt;li&gt;💻 Продолжил развивать навыки &lt;strong&gt;программирования&lt;/strong&gt;: решал задачи повышенной сложности и старался писать более чистый и структурированный код.&lt;/li&gt;
+&lt;li&gt;🧠 Работал с темами по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt;, уделяя внимание анализу сложности и оптимальным подходам.&lt;/li&gt;
+&lt;li&gt;🗄 Практиковался в работе с &lt;strong&gt;базами данных&lt;/strong&gt;: писал запросы, изучал способы ускорения обработки данных и оптимизации хранения.&lt;/li&gt;
+&lt;li&gt;📚 Выполнял практические задания и повторял пройденный материал, чтобы лучше закрепить знания.&lt;/li&gt;
+&lt;li&gt;🚶‍♂️ Поддерживал баланс между учёбой и отдыхом — это помогло сохранить концентрацию и не перегореть.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эта неделя ещё раз показала, что системный подход и регулярная практика дают ощутимый результат. Постепенно формируется уверенность в своих знаниях и понимание дальнейшего развития.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
